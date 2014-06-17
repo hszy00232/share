@@ -14,14 +14,42 @@
 
 <table width="100%">
 	<tr>
-		<td style="text-align:center;"><img src="img/mobile/iphone5-1.gif" width="400" height="800"><br>世界杯<br>近期赛程</td>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone5-2.jpg" width="400" height="800"><br>世界杯<br>小组赛</td>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone5-3.jpg" width="400" height="800"><br>世界杯<br>小组积分榜</td>
+		<td style="text-align:center;"><img src="img/mobile/iphone5-1.gif" width="600" height="800"><br>世界杯<br>近期赛程</td>
+		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone5-2.jpg" width="600" height="800"><br>世界杯<br>小组赛</td>
+		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone5-3.jpg" width="600" height="800"><br>世界杯<br>小组积分榜</td>
+	</tr>
+</table>
+---
+
+## 解构
+
+---
+
+<p style="text-align:center"><img src="img/mobile/header.gif"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/tab.gif"></p>
+
+---
+
+* 环境设计
+* 工业设计
+* 流行时尚设计
+* 视觉传达设计
+
+	* 广告设计
+	* 插画设计
+	* 网页设计
+
+@bg: http://farm1.staticflickr.com/219/499264019_ab86676dbd_b.jpg, @fragment, @offsetX: 55%, @offsetY: -1em
+
+---
+
+<table width="100%">
+	<tr>
+		<td style="text-align:center;"><a href="http://m.so.com/s?q=%E4%B8%96%E7%95%8C%E6%9D%AF&src=home" target="_blank">世界杯</a></td>
 	</tr>
 </table>
 
 ---
-
 ## 什么是设计？
 
 > 设计是有目标和计划的创作行为，介于艺术和科学之间。
