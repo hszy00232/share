@@ -8,7 +8,17 @@
 
 @fragment
 
-@bg: http://p4.qhimg.com/t01d61aaf56f76a46e7.gif, @fragment, @offsetX: 55%, @offsetY: -1em
+<p style="text-align:center"><img src="http://p4.qhimg.com/t01d61aaf56f76a46e7.gif"></p>
+
+---
+
+<table width="100%">
+	<tr>
+		<td style="text-align:center;color:#333"><img src="img/mobile/iphone5-1.gif"><br>世界杯<br>近期赛程</td>
+		<td style="text-align:center;color:#333" class="fragment"><img src="img/mobile/iphone5-2.jpg"><br>世界杯<br>小组赛</td>
+		<td style="text-align:center;color:#333" class="fragment"><img src="img/mobile/iphone5-3.jpg"><br>世界杯<br>小组积分榜</td>
+	</tr>
+</table>
 
 ---
 
@@ -59,10 +69,10 @@ Dieter Rams
 @state: light
 
 <table width="100%">
-    <tr>
-        <td style="text-align:center;color:#333"><img src="img/design/braun_t3.jpg"><br>Braun T3 Radio<br>Dieter Rams, 1958</td>
-        <td style="text-align:center;color:#333" class="fragment"><img src="img/design/ipod1.jpg"><br>Apple iPod<br>Jony Ive, 2001</td>
-    </tr>
+	<tr>
+		<td style="text-align:center;color:#333"><img src="img/design/braun_t3.jpg"><br>Braun T3 Radio<br>Dieter Rams, 1958</td>
+		<td style="text-align:center;color:#333" class="fragment"><img src="img/design/ipod1.jpg"><br>Apple iPod<br>Jony Ive, 2001</td>
+	</tr>
 </table>
 
 ---
@@ -72,62 +82,62 @@ Dieter Rams
 ---
 
 <table width="100%" class="good-design">
-    <tr>
-        <td class="fragment">
-            <i class="icon-lightbulb"></i>
-            innovative<br>
-            创新的
-        </td>
-        <td class="fragment">
-            <i class="icon-wrench"></i>
-            useful<br>
-            有用的
-        </td>
-        <td class="fragment">
-            <i class="icon-picture"></i>
-            aesthetic<br>
-            美的
-        </td>
-        <td class="fragment">
-            <i class="icon-comments"></i>
-            understandable<br>
-            可理解的
-        </td>
-    </tr>
-    <tr>
-        <td class="fragment">
-            <i class="icon-sun"></i>
-            unobtrusive<br>
-            不张扬的
-        </td>
-        <td class="fragment">
-            <i class="icon-book"></i>
-            honest<br>
-            诚实的
-        </td>
-        <td class="fragment">
-            <i class="icon-time"></i>
-            long-lasting<br>
-            持久的
-        </td>
-        <td class="fragment">
-            <i class="icon-list"></i>
-            thorough<br>
-            周到的
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" class="fragment">
-            <i class="icon-globe"></i>
-            environmentally friendly<br>
-            环保的
-        </td>
-        <td colspan="2" class="fragment">
-            <i class="icon-xxx">&nbsp;</i>
-            as little design as possible<br>
-            尽可能少的设计
-        </td>
-    </tr>
+	<tr>
+		<td class="fragment">
+			<i class="icon-lightbulb"></i>
+			innovative<br>
+			创新的
+		</td>
+		<td class="fragment">
+			<i class="icon-wrench"></i>
+			useful<br>
+			有用的
+		</td>
+		<td class="fragment">
+			<i class="icon-picture"></i>
+			aesthetic<br>
+			美的
+		</td>
+		<td class="fragment">
+			<i class="icon-comments"></i>
+			understandable<br>
+			可理解的
+		</td>
+	</tr>
+	<tr>
+		<td class="fragment">
+			<i class="icon-sun"></i>
+			unobtrusive<br>
+			不张扬的
+		</td>
+		<td class="fragment">
+			<i class="icon-book"></i>
+			honest<br>
+			诚实的
+		</td>
+		<td class="fragment">
+			<i class="icon-time"></i>
+			long-lasting<br>
+			持久的
+		</td>
+		<td class="fragment">
+			<i class="icon-list"></i>
+			thorough<br>
+			周到的
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="fragment">
+			<i class="icon-globe"></i>
+			environmentally friendly<br>
+			环保的
+		</td>
+		<td colspan="2" class="fragment">
+			<i class="icon-xxx">&nbsp;</i>
+			as little design as possible<br>
+			尽可能少的设计
+		</td>
+	</tr>
 </table>
 
 ---
@@ -439,33 +449,33 @@ Dieter Rams
 ---
 
 <div style="width:40em;font-size:60%; padding:2em;text-align:left;margin:0 auto;background:#ddd;color:#111">
-    <div style="font-size:110%">White Space and Simplicity: An Overview</div>
-    <div style="margin-top:0.5em">By Vitaly Friedman</div>
-    <div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
+	<div style="font-size:110%">White Space and Simplicity: An Overview</div>
+	<div style="margin-top:0.5em">By Vitaly Friedman</div>
+	<div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
 </div>
 
 ---
 
 <div style="width:40em;font-size:60%; padding:2em;text-align:left;margin:0 auto;background:#ddd;color:#111">
-    <div style="font-size:200%;line-height:1.4">White Space and Simplicity: An Overview</div>
-    <div style="margin-top:0.5em;font-size:85%">By Vitaly Friedman</div>
-    <div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
+	<div style="font-size:200%;line-height:1.4">White Space and Simplicity: An Overview</div>
+	<div style="margin-top:0.5em;font-size:85%">By Vitaly Friedman</div>
+	<div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
 </div>
 
 ---
 
 <div style="width:40em;font-size:60%; padding:2em;text-align:left;margin:0 auto;background:#ddd;color:#111">
-    <div style="font-size:120%;line-height:1.5;color:#09c;font-weight:bold">White Space and Simplicity: An Overview</div>
-    <div style="margin-top:0.5em;color:#999">By Vitaly Friedman</div>
-    <div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
+	<div style="font-size:120%;line-height:1.5;color:#09c;font-weight:bold">White Space and Simplicity: An Overview</div>
+	<div style="margin-top:0.5em;color:#999">By Vitaly Friedman</div>
+	<div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
 </div>
 
 ---
 
 <div style="width:40em;font-size:60%; padding:2em;text-align:left;margin:0 auto;background:#ddd;color:#111;overflow:hidden">
-    <div style="font-size:100%;line-height:1.5;font-weight:bold;padding:1em 2em;margin:-2em -2em 0;background:#09c;color:#fff">White Space and Simplicity: An Overview</div>
-    <div style="margin-top:0.5em;color:#999">By Vitaly Friedman</div>
-    <div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
+	<div style="font-size:100%;line-height:1.5;font-weight:bold;padding:1em 2em;margin:-2em -2em 0;background:#09c;color:#fff">White Space and Simplicity: An Overview</div>
+	<div style="margin-top:0.5em;color:#999">By Vitaly Friedman</div>
+	<div style="margin-top:0.5em;line-height:1.6">Last year we’ve seen a lot of simple, even minimalistic designs, which impress not with the amount of presented information but with the way the information is actually presented. Complex layouts are giving way to simple 2-col- or 3-col layouts, which usually have large amount of white space without any content whatsoever.</div>
 </div>
 
 ---
@@ -570,19 +580,19 @@ Dieter Rams
 * 什么是好的设计
 * 网页设计的基本要素
 
-    * 文字排版
-    * 颜色
-    * 视觉层次
+	* 文字排版
+	* 颜色
+	* 视觉层次
 
 * 视觉修饰
 
-    * 图标
-    * 纹理
+	* 图标
+	* 纹理
 
 * 设计原则
-    
-    * 一致性
-    * 简单
+	
+	* 一致性
+	* 简单
 ---
 
 ![draw](http://static.fjcdn.com/pictures/How_e730a5_900149.jpg)
