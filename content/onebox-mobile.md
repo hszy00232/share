@@ -30,6 +30,18 @@
 
 ---
 
+## 球队VS球队
+
+![shijiebei4](img/mobile/iphone4.png)
+
+---
+
+## 球队阵容
+
+![shijiebei4](img/mobile/iphone6.png)
+
+---
+
 <table width="1200">
 	<tr>
 		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone1.png" width="400" height="800"><br>世界杯<br>近期赛程</td>
