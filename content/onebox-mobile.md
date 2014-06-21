@@ -76,7 +76,7 @@ HTML
 ![tab](img/mobile/tab.gif)
 
 <p>
-	<pre><code data-trim="1" style="font-size:.8em;">
+	<pre><code data-trim="1" style="font-size:.5em;">
 	<nav class="mh-tabs mh-flex">
 		<a href="javascript:;" class="mh-item mh-tabs-item js-active">近期赛程</a>
 		<a href="javascript:;" class="mh-item mh-tabs-item">小组赛赛程</a>
@@ -121,8 +121,7 @@ HTML
 
 ---
 
-<p data-height="268" data-theme-id="6832" data-slug-hash="HFoBL" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/hszy00232/pen/HFoBL/'>HFoBL</a> by 冰果 (<a href='http://codepen.io/hszy00232'>@hszy00232</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//codepen.io/assets/embed/ei.js"></script>
+<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/X298K/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ---
 
