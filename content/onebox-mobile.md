@@ -14,9 +14,9 @@
 
 <table width="1200">
 	<tr>
-		<td style="text-align:center;"><img src="img/mobile/iphone5-1.gif" width="400" height="800"><br>世界杯<br>近期赛程</td>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone5-2.gif" width="400" height="800"><br>世界杯<br>小组赛</td>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone5-3.gif" width="400" height="800"><br>世界杯<br>小组积分榜</td>
+		<td style="text-align:center;"><img src="img/mobile/iphone1.png" width="400" height="800"><br>世界杯<br>近期赛程</td>
+		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone2.png" width="400" height="800"><br>世界杯<br>小组赛</td>
+		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone3.png" width="400" height="800"><br>世界杯<br>小组积分榜</td>
 	</tr>
 </table>
 
@@ -28,6 +28,15 @@
 
 <p style="text-align:center"><img src="img/mobile/header.gif"></p>
 <p style="text-align:center" class="fragment"><img src="img/mobile/tab.gif"></p>
+
+@fragment
+<p style="text-align:center"><img src="img/mobile/subnav1.png"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/subnav.png"></p>
+
+@fragment
+<p style="text-align:center"><img src="img/mobile/cont1.png"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/cont2.png"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/cont3.png"></p>
 
 ---
 
