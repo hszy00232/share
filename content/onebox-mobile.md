@@ -137,11 +137,11 @@
 
 ## flex的兼容性
 
-版本了解：
+* 版本了解：
 
-* (old)2009年版本 display:box
-* (tweener)2011年版本 display:flexbox
-* (new)最新版本 display:flex
+	* (old)2009年版本 display:box
+	* (tweener)2011年版本 display:flexbox
+	* (new)最新版本 display:flex
 
 <table style="width:100%;font-size:.7em;color:#000;">
 	<tr style="background-color:#ccc;">
@@ -176,40 +176,31 @@
 
 ---
 
-## 之一
+## 美女图
 
-@fragment
-
-<table width="800">
-	<tr>
-		<td style="text-align:center;">
-			<img src="img/mobile/qq1.png" width="400" height="800" class="fragment">
-		</td>
-		<td style="text-align:center;">
-			<img src="img/mobile/qq2.png" width="400" height="800" class="fragment">
-		</td>
-	</tr>
-</table>
+![qq1](img/mobile/qq1.png)
 
 ---
 
-## 之二
+## 美女图
 
-@fragment
-
-<table width="800">
-	<tr>
-		<td style="text-align:center;">
-			<img src="img/mobile/qq3.png" width="400" height="800" class="fragment">
-		</td>
-		<td style="text-align:center;">
-			<img src="img/mobile/qq4.png" width="400" height="800" class="fragment">
-		</td>
-	</tr>
-</table>
-
+![qq2](img/mobile/qq2.png)
 
 ---
+
+## QQ头像
+
+![qq1](img/mobile/qq3.png)
+
+---
+
+## QQ头像
+
+![qq1](img/mobile/qq4.png)
+
+---
+
+
 * 环境设计
 * 工业设计
 * 流行时尚设计
