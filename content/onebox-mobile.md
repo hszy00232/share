@@ -48,6 +48,10 @@
 
 ![header](img/mobile/header.gif)
 
+@fragment
+
+HTML
+
 <p class="fragment">
 	<pre><code data-trim="1" style="font-size:.8em;">
 	<a href="##html" class="mh-title">
@@ -56,6 +60,8 @@
 	</code></pre>
 
 </p>
+
+CSS
 
 <p class="fragment">
 	<pre><code data-trim="1" style="font-size:.6em;">
