@@ -182,7 +182,7 @@
 
 ---
 
-## 美女图
+## 风景图
 
 ![qq2](img/mobile/qq2.png)
 
@@ -194,7 +194,7 @@
 
 ---
 
-## QQ头像
+## Q壁纸
 
 ![qq1](img/mobile/qq4.png)
 
