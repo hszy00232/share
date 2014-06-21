@@ -38,7 +38,7 @@
 
 ## 球队阵容
 
-![shijiebei4](img/mobile/iphone6.png)
+![shijiebei5](img/mobile/iphone5.png)
 
 ---
 
