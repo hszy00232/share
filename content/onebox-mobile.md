@@ -86,17 +86,35 @@ HTML
 </p>
 
 <p>
-	<pre><code data-trim="1" style="font-size:.6em;">
+	<pre><code data-trim="1" style="font-size:.5em;">
 	.mh-flex{
-		display: -webkit-box;
-		display: -webkit-flex;
-		display: flex;
+		display:-webkit-box;
+		display:-ms-flexbox;
+		display:-webkit-flex;
+		display:flex;
 	}
 	.mh-tabs{
 		height: 40px;
+		line-height: 40px;
 		background: #28af1e;
 		border-top: 1px solid #67bf15;
-		margin-right: -2px;
+	}
+	.mh-item{
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		-ms-flex: 1;
+		flex: 1;
+		color: #fff;
+		border-right: 1px solid #67bf15;
+		border-bottom: #1px solid #67bf15;
+	}
+	.mh-item:last-child{
+		border-right: none;
+	}
+	.mh-item.js-active{
+		background:#fefefe;
+		color:#28af1e;
+		border-bottom-color:#fff;
 	}
 	</code></pre>
 </p>
