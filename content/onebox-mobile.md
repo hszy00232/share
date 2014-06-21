@@ -205,7 +205,7 @@
 
 ---
 
-![tab](img/mobile/tab.gif)
+![pic1](img/mobile/pic1.png)
 
 <p>
 	<pre><code data-trim="1" style="font-size:.5em;">
