@@ -12,7 +12,7 @@
 
 ---
 
-![shijiebei1](img/mobile/iphone1.png.jpg)
+![shijiebei1](img/mobile/iphone1.png)
 
 ---
 
