@@ -42,65 +42,17 @@
 
 ---
 
-<table width="1200">
-	<tr>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone1.png" width="400" height="800"><br>世界杯<br>近期赛程</td>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone2.png" width="400" height="800"><br>世界杯<br>小组赛</td>
-		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone3.png" width="400" height="800"><br>世界杯<br>小组积分榜</td>
-	</tr>
-</table>
+## 总结到的一些点...
 
 ---
 
-<table width="1200">
-	<tr>
-		<td style="text-align:center;">
-			<img src="img/mobile/header.gif" class="fragment">
-			<img src="img/mobile/tab.gif" class="fragment">
-			<img src="img/mobile/subnav1.png" class="fragment">
-			<img src="img/mobile/subnav2.png" class="fragment">
-		</td>
-		<td style="text-align:center;">
-			<img src="img/mobile/cont1.png" class="fragment">
-			<img src="img/mobile/cont2.png" class="fragment">
-			<img src="img/mobile/cont3.png" class="fragment">
-		</td>
-	</tr>
-</table>
+![header](img/mobile/header.gif)
 
----
-
-## 弹性盒子
-
-@fragment
-
-<p style="text-align:center;" class="fragment">
-	<img src="img/mobile/flex1.png" alt="">
-</p>
-
-<p style="text-align:center;" class="fragment">
-	<img src="img/mobile/flex2.png" alt="">
-</p>
-
----
-
-## 之二
-
-@fragment
-
-<p style="text-align:center;">
-	<img src="img/mobile/iphone4.png" width="400" height="800">
-</p>
-
----
-
-## 之三
-
-@fragment
-
-<p style="text-align:center;">
-	<img src="img/mobile/iphone5.png" width="400" height="800">
-</p>
+<pre><code data-trim="1" class="line">
+<a href="##html" class="mh-title">
+	<h3 class="mh-inner">巴西vs克罗地亚_全场视频回放</h3>
+</a>
+</code></pre>
 
 ---
 
