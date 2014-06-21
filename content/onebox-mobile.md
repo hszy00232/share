@@ -198,6 +198,71 @@
 
 ![qq1](img/mobile/qq4.png)
 
+
+---
+
+## 总结到的一些点...
+
+---
+
+![tab](img/mobile/tab.gif)
+
+<p>
+	<pre><code data-trim="1" style="font-size:.5em;">
+	 <div class="mh-flex">
+		<a href="##" class="mh-item">
+			<div class="mh-img-wrap">
+				<img src="http://p9.qhimg.com/t01db1927965587366f.png" />
+			</div>
+		</a>
+		<a href="##" class="mh-item">
+			<div class="mh-img-wrap">
+				<img src="http://p5.qhimg.com/t015c74cd9537f02450.png" />
+			</div>
+		</a>
+		<a href="##" class="mh-item">
+			<div class="mh-img-wrap">
+				<img src="http://p9.qhimg.com/t01159d663b3331a374.png" />
+			</div>
+		</a>
+	</div>
+	</code></pre>
+</p>
+
+<p>
+	<pre><code data-trim="1" style="font-size:.5em;">
+	.mh-flex{
+		display:-webkit-box;
+		display:-ms-flexbox;
+		display:-webkit-flex;
+		display:flex;
+		margin:0 -1px;
+	}
+	.mh-item{
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		-ms-flex: 1;
+		flex: 1;
+		display:block;
+		width: 30%;
+		margin:0 1px;
+	}
+	.mh-img-wrap{
+		position: relative;
+		height: 0;
+		padding-bottom: 100%;
+		overflow: hidden;
+	}
+	.mh-img-wrap img{
+		position: absolute;
+		width:100%;
+		left:0;
+		top:0;
+		vertical-align:middle;
+	}
+	</code></pre>
+</p>
+
 ---
 
 
