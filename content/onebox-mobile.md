@@ -48,22 +48,18 @@
 
 ![header](img/mobile/header.gif)
 
-@fragment
 
 HTML
 
-<p class="fragment">
+<p style="margin-bottom:10px;">
 	<pre><code data-trim="1" style="font-size:.8em;">
 	<a href="##html" class="mh-title">
 		<h3 class="mh-inner">巴西vs克罗地亚_全场视频回放</h3>
 	</a>
 	</code></pre>
-
 </p>
 
-CSS
-
-<p class="fragment">
+<p>
 	<pre><code data-trim="1" style="font-size:.6em;">
 	.mh-title .mh-inner {
 		margin-left: 10px;
@@ -76,6 +72,34 @@ CSS
 </p>
 
 ---
+
+![tab](img/mobile/tab.gif)
+
+<p>
+	<pre><code data-trim="1" style="font-size:.8em;">
+	<nav class="mh-tabs mh-flex">
+		<a href="javascript:;" class="mh-item mh-tabs-item js-active">近期赛程</a>
+		<a href="javascript:;" class="mh-item mh-tabs-item">小组赛赛程</a>
+		<a href="javascript:;" class="mh-item mh-tabs-item">小组积分榜</a>
+	</nav>
+	</code></pre>
+</p>
+
+<p>
+	<pre><code data-trim="1" style="font-size:.6em;">
+	.mh-flex{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+	}
+	.mh-tabs{
+		height: 40px;
+		background: #28af1e;
+		border-top: 1px solid #67bf15;
+		margin-right: -2px;
+	}
+	</code></pre>
+</p>
 
 ## 图片
 
