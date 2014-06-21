@@ -12,6 +12,8 @@
 
 ---
 
+## 之一
+
 <table width="1200">
 	<tr>
 		<td style="text-align:center;"><img src="img/mobile/iphone1.png" width="400" height="800"><br>世界杯<br>近期赛程</td>
@@ -53,6 +55,30 @@
 <p style="text-align:center;" class="fragment">
 	<img src="img/mobile/flex2.png" alt="">
 </p>
+
+---
+
+## 之二
+
+@fragment
+
+<table>
+	<tr>
+		<td style="text-align:center;"><img src="img/mobile/iphone4.png" width="400" height="800"></td>
+	</tr>
+</table>
+
+---
+
+## 之三
+
+@fragment
+
+<table>
+	<tr>
+		<td style="text-align:center;"><img src="img/mobile/iphone5.png" width="400" height="800"></td>
+	</tr>
+</table>
 
 ---
 
