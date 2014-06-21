@@ -49,18 +49,23 @@
 ![header](img/mobile/header.gif)
 
 
-HTML
-
 <p style="margin-bottom:10px;">
-	<pre><code data-trim="1" style="font-size:.8em;">
+	<pre><code data-trim="1" style="font-size:.7em;">
 	<a href="##html" class="mh-title">
 		<h3 class="mh-inner">巴西vs克罗地亚_全场视频回放</h3>
 	</a>
 	</code></pre>
 </p>
 
+
 <p>
 	<pre><code data-trim="1" style="font-size:.6em;">
+	.mh-title{
+		display: block;
+		color: #fff;
+		line-height: 37px;
+		background-color: #28af1e;
+	}
 	.mh-title .mh-inner {
 		margin-left: 10px;
 		background: url(http://p6.qhimg.com/t012d00d5207d05376d.png) no-repeat left top,
@@ -70,6 +75,15 @@ HTML
 	}
 	</code></pre>
 </p>
+
+---
+
+## 结果
+
+![code1](img/mobile/code2.jpg)
+
+<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/EeZzM/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
 
 ---
 
@@ -121,7 +135,11 @@ HTML
 
 ---
 
-<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/X298K/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+## 结果
+
+![code1](img/mobile/code1.jpg)
+
+<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/X298K/1/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ---
 
