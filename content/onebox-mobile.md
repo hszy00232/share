@@ -371,7 +371,7 @@
 
 ![code3](img/mobile/code4.jpg)
 
-<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/5CTfk/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/5CTfk/1/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ---
 ## 谢谢大家！
