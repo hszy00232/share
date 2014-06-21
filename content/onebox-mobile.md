@@ -28,16 +28,14 @@
 	<tr>
 		<td style="text-align:center;">
 			<img src="img/mobile/header.gif">
-			<img src="img/mobile/tab.gif">
+			<img src="img/mobile/tab.gif" class="fragment">
+			<img src="img/mobile/subnav1.png" class="fragment">
+			<img src="img/mobile/subnav2.png" class="fragment">
 		</td>
-		<td style="text-align:center;" class="fragment">
-			<img src="img/mobile/subnav1.png">
-			<img src="img/mobile/subnav2.png">
-		</td>
-		<td style="text-align:center;" class="fragment">
-			<img src="img/mobile/cont1.png">
-			<img src="img/mobile/cont2.png" style="margin:0;">
-			<img src="img/mobile/cont3.png">
+		<td style="text-align:center;">
+			<img src="img/mobile/cont1.png" class="fragment">
+			<img src="img/mobile/cont2.png" class="fragment">
+			<img src="img/mobile/cont3.png" class="fragment">
 		</td>
 	</tr>
 </table>
