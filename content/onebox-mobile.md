@@ -62,11 +62,9 @@
 
 @fragment
 
-<table>
-	<tr>
-		<td style="text-align:center;"><img src="img/mobile/iphone4.png" width="400" height="800"></td>
-	</tr>
-</table>
+<p style="text-align:center;">
+	<img src="img/mobile/iphone4.png" width="400" height="800">
+</p>
 
 ---
 
@@ -74,14 +72,54 @@
 
 @fragment
 
-<table>
+<p style="text-align:center;">
+	<img src="img/mobile/iphone5.png" width="400" height="800">
+</p>
+
+---
+
+## 图片
+
+@fragment
+
+<p style="text-align:center"><img src="img/mobile/tupian.jpg"></p>
+
+---
+
+## 之一
+
+@fragment
+
+<table width="800">
 	<tr>
-		<td style="text-align:center;"><img src="img/mobile/iphone5.png" width="400" height="800"></td>
+		<td style="text-align:center;">
+			<img src="img/mobile/qq1.png" width="400" height="800">
+		</td>
+		<td style="text-align:center;">
+			<img src="img/mobile/qq2.png" width="400" height="800" class="fragment">
+		</td>
 	</tr>
 </table>
 
 ---
 
+## 之二
+
+@fragment
+
+<table width="800">
+	<tr>
+		<td style="text-align:center;">
+			<img src="img/mobile/qq3.png" width="400" height="800">
+		</td>
+		<td style="text-align:center;">
+			<img src="img/mobile/qq4.png" width="400" height="800" class="fragment">
+		</td>
+	</tr>
+</table>
+
+
+---
 * 环境设计
 * 工业设计
 * 流行时尚设计
