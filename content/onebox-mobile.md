@@ -138,9 +138,10 @@
 ## flex的兼容性
 
 版本了解：
-* (old)2009年版本 display:box;或box-{}
-* (tweener)2011年版本 display:flexbox或flex{}
-* (new)最新版本 display:flex或flex-{}
+
+* (old)2009年版本 display:box
+* (tweener)2011年版本 display:flexbox
+* (new)最新版本 display:flex
 
 <table style="width:100%;font-size:.7em;color:#000;">
 	<tr style="background-color:#ccc;">
