@@ -12,11 +12,13 @@
 
 ---
 
-## 之一
+![shijiebei1](img/mobile/iphone1.png.jpg)
+
+---
 
 <table width="1200">
 	<tr>
-		<td style="text-align:center;"><img src="img/mobile/iphone1.png" width="400" height="800"><br>世界杯<br>近期赛程</td>
+		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone1.png" width="400" height="800"><br>世界杯<br>近期赛程</td>
 		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone2.png" width="400" height="800"><br>世界杯<br>小组赛</td>
 		<td style="text-align:center;" class="fragment"><img src="img/mobile/iphone3.png" width="400" height="800"><br>世界杯<br>小组积分榜</td>
 	</tr>
@@ -24,12 +26,10 @@
 
 ---
 
-## 解构
-
 <table width="1200">
 	<tr>
 		<td style="text-align:center;">
-			<img src="img/mobile/header.gif">
+			<img src="img/mobile/header.gif" class="fragment">
 			<img src="img/mobile/tab.gif" class="fragment">
 			<img src="img/mobile/subnav1.png" class="fragment">
 			<img src="img/mobile/subnav2.png" class="fragment">
@@ -48,7 +48,7 @@
 
 @fragment
 
-<p style="text-align:center;">
+<p style="text-align:center;" class="fragment">
 	<img src="img/mobile/flex1.png" alt="">
 </p>
 
@@ -93,7 +93,7 @@
 <table width="800">
 	<tr>
 		<td style="text-align:center;">
-			<img src="img/mobile/qq1.png" width="400" height="800">
+			<img src="img/mobile/qq1.png" width="400" height="800" class="fragment">
 		</td>
 		<td style="text-align:center;">
 			<img src="img/mobile/qq2.png" width="400" height="800" class="fragment">
@@ -110,7 +110,7 @@
 <table width="800">
 	<tr>
 		<td style="text-align:center;">
-			<img src="img/mobile/qq3.png" width="400" height="800">
+			<img src="img/mobile/qq3.png" width="400" height="800" class="fragment">
 		</td>
 		<td style="text-align:center;">
 			<img src="img/mobile/qq4.png" width="400" height="800" class="fragment">
