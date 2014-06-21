@@ -12,7 +12,21 @@
 
 ---
 
+## 近期赛程
+
 ![shijiebei1](img/mobile/iphone1.png)
+
+---
+
+## 小组赛赛程
+
+![shijiebei2](img/mobile/iphone2.png)
+
+---
+
+## 小组积分榜
+
+![shijiebei3](img/mobile/iphone3.png)
 
 ---
 
