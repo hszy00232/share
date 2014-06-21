@@ -24,19 +24,23 @@
 
 ## 解构
 
-@fragment
-
-<p style="text-align:center"><img src="img/mobile/header.gif" style="margin:0;"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/tab.gif" style="margin:0;"></p>
-
-@fragment
-<p style="text-align:center"><img src="img/mobile/subnav1.png" style="margin:0;"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/subnav2.png" style="margin:0;"></p>
-
-@fragment
-<p style="text-align:center"><img src="img/mobile/cont1.png" style="margin:0;"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/cont2.png" style="margin:0;"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/cont3.png" style="margin:0;"></p>
+<table width="1200">
+	<tr>
+		<td style="text-align:center;">
+			<img src="img/mobile/header.gif">
+			<img src="img/mobile/tab.gif">
+		</td>
+		<td style="text-align:center;" class="fragment">
+			<img src="img/mobile/subnav1.png">
+			<img src="img/mobile/subnav2.png">
+		</td>
+		<td style="text-align:center;" class="fragment">
+			<img src="img/mobile/cont1.png">
+			<img src="img/mobile/cont2.png" style="margin:0;">
+			<img src="img/mobile/cont3.png">
+		</td>
+	</tr>
+</table>
 
 ---
 
