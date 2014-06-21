@@ -281,41 +281,41 @@
 		<li>
 			<a href="#">
 				<div class="mh-img-wrap js-img-wrap" style="height: 122px;">
-					<img src="http://p1.so.qhimg.com/dr/158_158_80/t015697cbadbaba3bcb.jpg" />
+					<img src="http://p9.qhimg.com/t01db1927965587366f.png" />
 				</div>
 			</a>
 		</li>
 		<li>
 			<a href="#">
 				<div class="mh-img-wrap js-img-wrap" style="height: 122px;">
-					<img src="http://p1.so.qhimg.com/dr/158_158_80/t018662d5b976d00571.jpg" />
+					<img src="http://p9.qhimg.com/t01db1927965587366f.png" />
 				</div>
 			</a>
 		</li>
 		<li>
 			<a href="#">
 				<div class="mh-img-wrap js-img-wrap" style="height: 122px;">
-					<img src="http://p0.so.qhimg.com/dr/158_158_80/t01ae952607480d8b1f.jpg" />
+					<img src="http://p9.qhimg.com/t01db1927965587366f.png" />
 				</div>
 			</a>
 		</li>
 		<li>
 			<a href="#">
 				<div class="mh-img-wrap js-img-wrap" style="height: 122px;">
-					<img src="http://p2.so.qhimg.com/dr/158_158_80/t0162c23835226b4b57.jpg" />
+					<img src="http://p9.qhimg.com/t01db1927965587366f.png" />
 				</div>
 			</a>
 		</li>
 		<li>
 			<a href="#">
-				<div class="mh-img-wrap js-img-wrap" style="height: 122px;"><img src="http://p4.so.qhimg.com/dr/158_158_80/t018dba7892d20f8854.jpg" />
+				<div class="mh-img-wrap js-img-wrap" style="height: 122px;"><img src="http://p9.qhimg.com/t01db1927965587366f.png" />
 				</div>
 			</a>
 		</li>
 		<li>
 			<a href="#">
 				<div class="mh-img-wrap js-img-wrap" style="height: 122px;">
-					<img src="http://p4.so.qhimg.com/dr/158_158_80/t014eca004c393a160e.jpg" />
+					<img src="http://p9.qhimg.com/t01db1927965587366f.png" />
 				</div>
 			</a>
 		</li>
@@ -323,8 +323,52 @@
 	</code></pre>
 </p>
 
+<p>
+	<pre><code data-trim="1" style="font-size:.5em;height:200px;">
+	.mh-img-list{
+		overflow: hidden;  
+		width: 100%;
+	}
+	.mh-img-list li{
+		width: 33.3%;
+		float: left;
+		border-right: 1px solid #fff;
+		margin-bottom: 1px;
+		-webkit-box-sizing: border-box;
+	}
+	.mh-img-list li img{
+		width:100%;
+		display:block;
+	}
+	.mh-img-wrap{
+		width:100%;
+		overflow:hidden;
+	}
+	</code></pre>
+</p>
+<p>
+	<pre><code data-trim="1" style="font-size:.5em;height:200px;">
+	function initSize(){
+		wrapWidth = $('.mh-img-list').width()+2;
+		liWidth = Math.ceil(wrapWidth/3);
+		$('.js-img-wrap').css('height',liWidth);
+	}
+	initSize();
+	$(window).bind('resize',function(){
+		initSize();
+	});
+	</code></pre>
+</p>
+
 ---
 
+## 结果
+
+![code3](img/mobile/code4.jpg)
+
+<iframe width="100%" height="300" src="http://jsfiddle.net/hszy00232/5CTfk/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+---
 ## 谢谢大家！
 
 <p style="font-size:6em"><i class="icon-smile"></i></p>
