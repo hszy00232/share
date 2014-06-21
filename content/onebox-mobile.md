@@ -132,6 +132,28 @@
 	}
 	</code></pre>
 </p>
+---
+## flex的兼容性
+
+版本了解：
+*(old)2009年版本 display:box;或box-{}
+*(tweener)2011年版本 display:flexbox或flex{}
+*(new)最新版本 display:flex或flex-{}
+
+<table style="width:100%;">
+	<tr style="background-color:#ccc;">
+		<td>Chrome</td><td>Cafari</td><td>Firefox</td><td>Opera</td><td>IE</td><td>Android</td><td>IOS</td>
+	</tr>
+	<tr style="background-color:#fefefe;">
+		<td>21+ (new)<br/>20- (old)</td>
+		<td>3.1+ (old)</td>
+		<td>2-21 (old)<br/>22+ (new)</td>
+		<td>12.1+ (new)</td>
+		<td>10 (tweener)<br/>11+ (new)</td>
+		<td>2.1+ (old)</td>
+		<td>3.2+ (old)</td>
+	</tr>
+</table>
 
 ---
 
