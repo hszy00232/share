@@ -42,6 +42,20 @@
 
 ---
 
+## 弹性盒子
+
+@fragment
+
+<p style="text-align:center;">
+	<img src="img/mobile/flex1.png" alt="">
+</p>
+
+<p style="text-align:center;" class="fragment">
+	<img src="img/mobile/flex2.png" alt="">
+</p>
+
+---
+
 * 环境设计
 * 工业设计
 * 流行时尚设计
