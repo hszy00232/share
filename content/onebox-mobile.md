@@ -26,17 +26,17 @@
 
 @fragment
 
-<p style="text-align:center"><img src="img/mobile/header.gif"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/tab.gif"></p>
+<p style="text-align:center"><img src="img/mobile/header.gif" style="margin:0;"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/tab.gif" style="margin:0;"></p>
 
 @fragment
-<p style="text-align:center"><img src="img/mobile/subnav1.png"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/subnav2.png"></p>
+<p style="text-align:center"><img src="img/mobile/subnav1.png" style="margin:0;"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/subnav2.png" style="margin:0;"></p>
 
 @fragment
-<p style="text-align:center"><img src="img/mobile/cont1.png"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/cont2.png"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/cont3.png"></p>
+<p style="text-align:center"><img src="img/mobile/cont1.png" style="margin:0;"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/cont2.png" style="margin:0;"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/cont3.png" style="margin:0;"></p>
 
 ---
 
