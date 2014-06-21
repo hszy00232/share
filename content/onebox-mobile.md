@@ -59,8 +59,8 @@
 
 <p class="fragment">
 	CSS:
-	<pre><code data-trim="1" style="font-size:.8em;">
-	#mohe-m-worldcupvs .mh-title .mh-inner {
+	<pre><code data-trim="1" style="font-size:.4em;">
+	.mh-title .mh-inner {
 		margin-left: 10px;
 		background: url(http://p6.qhimg.com/t012d00d5207d05376d.png) no-repeat left top,
 		url(http://p7.qhimg.com/t01320390edcd8eca58.png) no-repeat right top;
