@@ -275,8 +275,10 @@
 
 ![pic2](img/mobile/pic2.png)
 
+---
+
 <p>
-	<pre><code data-trim="1" style="font-size:.5em;height:200px;">
+	<pre><code data-trim="1" style="font-size:.5em;height:400px;">
 	<ul class="mh-img-list gclearfix" style="display:block">
 		<li>
 			<a href="#">
@@ -323,8 +325,10 @@
 	</code></pre>
 </p>
 
+---
+
 <p>
-	<pre><code data-trim="1" style="font-size:.5em;height:200px;">
+	<pre><code data-trim="1" style="font-size:.5em;height:300px;">
 	.mh-img-list{
 		overflow: hidden;  
 		width: 100%;
@@ -346,8 +350,9 @@
 	}
 	</code></pre>
 </p>
+
 <p>
-	<pre><code data-trim="1" style="font-size:.5em;height:200px;">
+	<pre><code data-trim="1" style="font-size:.5em;height:300px;">
 	function initSize(){
 		wrapWidth = $('.mh-img-list').width()+2;
 		liWidth = Math.ceil(wrapWidth/3);
