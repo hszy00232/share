@@ -49,9 +49,6 @@
 ![header](img/mobile/header.gif)
 
 <p class="fragment">
-	
-	* HTML
-
 	<pre><code data-trim="1" style="font-size:.8em;">
 	<a href="##html" class="mh-title">
 		<h3 class="mh-inner">巴西vs克罗地亚_全场视频回放</h3>
@@ -61,9 +58,6 @@
 </p>
 
 <p class="fragment">
-
-	*CSS
-	
 	<pre><code data-trim="1" style="font-size:.6em;">
 	.mh-title .mh-inner {
 		margin-left: 10px;
