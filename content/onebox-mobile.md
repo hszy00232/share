@@ -31,7 +31,7 @@
 
 @fragment
 <p style="text-align:center"><img src="img/mobile/subnav1.png"></p>
-<p style="text-align:center" class="fragment"><img src="img/mobile/subnav.png"></p>
+<p style="text-align:center" class="fragment"><img src="img/mobile/subnav2.png"></p>
 
 @fragment
 <p style="text-align:center"><img src="img/mobile/cont1.png"></p>
