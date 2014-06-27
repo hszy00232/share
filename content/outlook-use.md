@@ -41,11 +41,28 @@
 
 ---
 
-## 你是否遇每个邮件都要查看，索性就不再查看
+## 你是否遇每个邮件都要查看
 
 ![zan1](img/outlook/zan1.jpg)
 
 ---
+
+## 怎么破
+
+![fannao](img/outlook/zaluan.jpg)
+
+---
+
+## 规则和通知
+
+![tool2.jpg](img/outlook/tool2.jpg)
+
+---
+
+* [邮件规则设定](http://jingyan.baidu.com/album/a501d80ccf0bfbec630f5e1c.html)
+
+---
+
 ## 谢谢大家！
 
 <p style="font-size:6em"><i class="icon-smile"></i></p>
