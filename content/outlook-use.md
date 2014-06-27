@@ -8,7 +8,7 @@
 
 @fragment
 
-![man1](img/outlook/man2.jpg)
+![man1](img/outlook/man1.jpg)
 ![man2](img/outlook/man2.jpg)
 
 ---
@@ -19,15 +19,16 @@
 
 ---
 
-## 小组赛赛程
+## 邮箱清理
 
-![shijiebei2](img/mobile/iphone2.png)
+![tool1.jpg](img/outlook/tool1.jpg)
 
 ---
 
-## 小组积分榜
+## 存档
 
-![shijiebei3](img/mobile/iphone3.png)
+* [存档教程](http://jingyan.baidu.com/album/ea24bc39a644d0da62b33135.html)
+
 
 ---
 
