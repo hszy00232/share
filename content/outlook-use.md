@@ -29,6 +29,9 @@
 
 * [存档教程](http://jingyan.baidu.com/album/ea24bc39a644d0da62b33135.html)
 
+	* 手动存档 - 标准步骤
+	* 手动存档 - 鼠标拖拽
+	* 自动存档
 
 ---
 
