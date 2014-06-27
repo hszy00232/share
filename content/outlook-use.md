@@ -8,14 +8,13 @@
 
 @fragment
 
-![man1](img/outlook/man1.jpg)
+![man1](img/outlook/man2.jpg)
 ![man2](img/outlook/man2.jpg)
-
 ---
 
-## 近期赛程
+## 怎么破
 
-![shijiebei1](img/mobile/iphone1.png)
+![fannao](img/outlook/fannao.jpg)
 
 ---
 
